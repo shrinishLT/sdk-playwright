@@ -1,0 +1,26 @@
+{
+  "web": {
+    "browsers": [
+      "chrome",
+      "safari"
+    ],
+    "viewports": [
+      [
+        1920
+      ],
+      [
+        1366
+      ]
+    ]
+  },
+  "mobile": {
+    "devices": [
+      "iPhone 14"
+    ],
+    "fullPage": true,
+    "orientation": "portrait"
+  },
+  "waitForTimeout": 90000,
+  "enableJavaScript": false,
+  "allowedHostnames": []
+}
