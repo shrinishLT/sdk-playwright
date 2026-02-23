@@ -1,0 +1,2770 @@
+{
+  "modifiedElements": [
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-your-quote/section/div[2]/div/adm-alert/div[2]/div",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-your-quote/section/div[2]/div/adm-alert/div[2]/div",
+      "matchSimilarity": 1,
+      "sourceBox": {
+        "x": 50,
+        "y": 264,
+        "width": 309,
+        "height": 21
+      },
+      "compareBox": {
+        "x": 50,
+        "y": 264,
+        "width": 309,
+        "height": 21
+      },
+      "differences": [
+        {
+          "type": "textContent",
+          "source": "£975.58 year - single payment today by card",
+          "compare": "£969.71 year - single payment today by card",
+          "description": "Text content differs",
+          "severity": "critical"
+        }
+      ],
+      "hasCritical": true,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-cover-dates/adm-card/div/adm-card-section/adm-card-section-content/adm-details/adm-details-item[1]/div",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-cover-dates/adm-card/div/adm-card-section/adm-card-section-content/adm-details/adm-details-item[1]/div",
+      "matchSimilarity": 1,
+      "sourceBox": {
+        "x": 20,
+        "y": 1632,
+        "width": 344,
+        "height": 21
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1655,
+        "width": 344,
+        "height": 21
+      },
+      "differences": [
+        {
+          "type": "textContent",
+          "source": "Starting 16/01/2026",
+          "compare": "Starting 02/01/2026",
+          "description": "Text content differs",
+          "severity": "critical"
+        }
+      ],
+      "hasCritical": true,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-cover-dates/adm-card/div/adm-card-section/adm-card-section-content/adm-details/adm-details-item[2]/div",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-cover-dates/adm-card/div/adm-card-section/adm-card-section-content/adm-details/adm-details-item[2]/div",
+      "matchSimilarity": 1,
+      "sourceBox": {
+        "x": 20,
+        "y": 1653,
+        "width": 344,
+        "height": 21
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1676,
+        "width": 344,
+        "height": 21
+      },
+      "differences": [
+        {
+          "type": "textContent",
+          "source": "Ending 15/01/2027 at 23:59",
+          "compare": "Ending 01/01/2027 at 23:59",
+          "description": "Text content differs",
+          "severity": "critical"
+        }
+      ],
+      "hasCritical": true,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[3]/div/eui-payment-breakdown/section/div[2]/div/ul/adm-payment-breakdown/ul/li/div[2]/adm-payment-breakdown-item-price[1]/span[2]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[3]/div/eui-payment-breakdown/section/div[2]/div/ul/adm-payment-breakdown/ul/li/div[2]/adm-payment-breakdown-item-price[1]/span[2]",
+      "matchSimilarity": 1,
+      "sourceBox": {
+        "x": 319,
+        "y": 4145,
+        "width": 65,
+        "height": 19
+      },
+      "compareBox": {
+        "x": 319,
+        "y": 4120,
+        "width": 65,
+        "height": 19
+      },
+      "differences": [
+        {
+          "type": "textContent",
+          "source": "£871.63",
+          "compare": "£865.76",
+          "description": "Text content differs",
+          "severity": "critical"
+        }
+      ],
+      "hasCritical": true,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[3]/div/eui-your-quote/section/div[2]/div/adm-payment-frequency/adm-payment-frequency-item/div/div[1]/adm-payment-frequency-item-price",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[3]/div/eui-your-quote/section/div[2]/div/adm-payment-frequency/adm-payment-frequency-item/div/div[1]/adm-payment-frequency-item-price",
+      "matchSimilarity": 1,
+      "sourceBox": {
+        "x": 0,
+        "y": 4517,
+        "width": 130,
+        "height": 35
+      },
+      "compareBox": {
+        "x": 0,
+        "y": 4492,
+        "width": 130,
+        "height": 35
+      },
+      "differences": [
+        {
+          "type": "textContent",
+          "source": "£975.58",
+          "compare": "£969.71",
+          "description": "Text content differs",
+          "severity": "critical"
+        }
+      ],
+      "hasCritical": true,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html",
+      "compareElement": "/html",
+      "matchSimilarity": 0.9993539256706866,
+      "sourceBox": {
+        "x": 0,
+        "y": 0,
+        "width": 384,
+        "height": 4780
+      },
+      "compareBox": {
+        "x": 0,
+        "y": 0,
+        "width": 384,
+        "height": 4755
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 4780,
+              "compare": 4755,
+              "difference": 25
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body",
+      "compareElement": "/html/body",
+      "matchSimilarity": 0.9993539256706866,
+      "sourceBox": {
+        "x": 0,
+        "y": 0,
+        "width": 384,
+        "height": 4780
+      },
+      "compareBox": {
+        "x": 0,
+        "y": 0,
+        "width": 384,
+        "height": 4755
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 4780,
+              "compare": 4755,
+              "difference": 25
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root",
+      "compareElement": "/html/body/eui-root",
+      "matchSimilarity": 0.9993539256706866,
+      "sourceBox": {
+        "x": 0,
+        "y": 0,
+        "width": 384,
+        "height": 4780
+      },
+      "compareBox": {
+        "x": 0,
+        "y": 0,
+        "width": 384,
+        "height": 4755
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 4780,
+              "compare": 4755,
+              "difference": 25
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]",
+      "compareElement": "/html/body/eui-root/div[2]",
+      "matchSimilarity": 0.9993405433922448,
+      "sourceBox": {
+        "x": 0,
+        "y": 97,
+        "width": 384,
+        "height": 4683
+      },
+      "compareBox": {
+        "x": 0,
+        "y": 97,
+        "width": 384,
+        "height": 4658
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 4683,
+              "compare": 4658,
+              "difference": 25
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks",
+      "matchSimilarity": 0.9993405433922448,
+      "sourceBox": {
+        "x": 0,
+        "y": 97,
+        "width": 384,
+        "height": 4683
+      },
+      "compareBox": {
+        "x": 0,
+        "y": 97,
+        "width": 384,
+        "height": 4658
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 4683,
+              "compare": 4658,
+              "difference": 25
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form",
+      "matchSimilarity": 0.9993214161076427,
+      "sourceBox": {
+        "x": 0,
+        "y": 97,
+        "width": 384,
+        "height": 4551
+      },
+      "compareBox": {
+        "x": 0,
+        "y": 97,
+        "width": 384,
+        "height": 4526
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 4551,
+              "compare": 4526,
+              "difference": 25
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]",
+      "matchSimilarity": 0.9986262298513712,
+      "sourceBox": {
+        "x": 0,
+        "y": 97,
+        "width": 384,
+        "height": 2248
+      },
+      "compareBox": {
+        "x": 0,
+        "y": 97,
+        "width": 384,
+        "height": 2223
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 2248,
+              "compare": 2223,
+              "difference": 25
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div",
+      "matchSimilarity": 0.9985859728506786,
+      "sourceBox": {
+        "x": 10,
+        "y": 129,
+        "width": 365,
+        "height": 2184
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 129,
+        "width": 365,
+        "height": 2159
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 2184,
+              "compare": 2159,
+              "difference": 25
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary",
+      "matchSimilarity": 0.997890625,
+      "sourceBox": {
+        "x": 10,
+        "y": 951,
+        "width": 365,
+        "height": 1344
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 952,
+        "width": 365,
+        "height": 1317
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 1344,
+              "compare": 1317,
+              "difference": 27
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper",
+      "matchSimilarity": 0.9975183823529411,
+      "sourceBox": {
+        "x": 10,
+        "y": 951,
+        "width": 365,
+        "height": 1344
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 952,
+        "width": 365,
+        "height": 1317
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 1344,
+              "compare": 1317,
+              "difference": 27
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section",
+      "matchSimilarity": 0.9975183823529411,
+      "sourceBox": {
+        "x": 10,
+        "y": 951,
+        "width": 365,
+        "height": 1344
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 952,
+        "width": 365,
+        "height": 1317
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 1344,
+              "compare": 1317,
+              "difference": 27
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]",
+      "matchSimilarity": 0.9975183823529411,
+      "sourceBox": {
+        "x": 10,
+        "y": 951,
+        "width": 365,
+        "height": 1344
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 952,
+        "width": 365,
+        "height": 1317
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 1344,
+              "compare": 1317,
+              "difference": 27
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div",
+      "matchSimilarity": 0.9975183823529411,
+      "sourceBox": {
+        "x": 10,
+        "y": 951,
+        "width": 365,
+        "height": 1344
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 952,
+        "width": 365,
+        "height": 1317
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 1344,
+              "compare": 1317,
+              "difference": 27
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck",
+      "matchSimilarity": 0.9975183823529411,
+      "sourceBox": {
+        "x": 10,
+        "y": 951,
+        "width": 365,
+        "height": 1344
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 952,
+        "width": 365,
+        "height": 1317
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 1344,
+              "compare": 1317,
+              "difference": 27
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div",
+      "matchSimilarity": 0.9973840830449827,
+      "sourceBox": {
+        "x": 10,
+        "y": 1020,
+        "width": 365,
+        "height": 1275
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 1021,
+        "width": 365,
+        "height": 1248
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 1275,
+              "compare": 1248,
+              "difference": 27
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[2]/div/section/div[2]/div/eui-motor-cover-benefits/eui-motor-cover-benefits-card/adm-card/div/adm-card-section[1]/adm-card-section-content/adm-details/adm-details-item[5]/div[2]/small",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[2]/div/section/div[2]/div/eui-motor-cover-benefits/eui-motor-cover-benefits-card/adm-card/div/adm-card-section[1]/adm-card-section-content/adm-details/adm-details-item[5]/div[2]/small",
+      "matchSimilarity": 0.9952941176470588,
+      "sourceBox": {
+        "x": 32,
+        "y": 2609,
+        "width": 287,
+        "height": 60
+      },
+      "compareBox": {
+        "x": 32,
+        "y": 2584,
+        "width": 315,
+        "height": 60
+      },
+      "differences": [
+        {
+          "type": "textContent",
+          "source": "Third Party only cover for Mr John Doe whilst driving privately insured cars, with the owner's permission",
+          "compare": "Third Party only cover for Userbzisgrx Tiers-test-van-ewhcptuni whilst driving privately insured cars, with the owner's permission",
+          "description": "Text content differs",
+          "severity": "critical"
+        },
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 2609,
+              "compare": 2584,
+              "difference": 25
+            },
+            {
+              "property": "width",
+              "source": 287,
+              "compare": 315,
+              "difference": 28
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": true,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-policy-administrator/adm-card/div/adm-card-section[1]/adm-card-section-content/h3",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-policy-administrator/adm-card/div/adm-card-section[1]/adm-card-section-content/h3",
+      "matchSimilarity": 0.9938235294117646,
+      "sourceBox": {
+        "x": 20,
+        "y": 585,
+        "width": 344,
+        "height": 19
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 585,
+        "width": 344,
+        "height": 20
+      },
+      "differences": [
+        {
+          "type": "textContent",
+          "source": "Mr John Doe",
+          "compare": "",
+          "description": "Text content differs",
+          "severity": "critical"
+        }
+      ],
+      "hasCritical": true,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div/adm-card-section/adm-card-section-content/adm-details/adm-details-title/h4/span",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div/adm-card-section/adm-card-section-content/adm-details/adm-details-title/h4/span",
+      "matchSimilarity": 0.939671682626539,
+      "sourceBox": {
+        "x": 43,
+        "y": 1173,
+        "width": 321,
+        "height": 22
+      },
+      "compareBox": {
+        "x": 43,
+        "y": 1174,
+        "width": 321,
+        "height": 43
+      },
+      "differences": [
+        {
+          "type": "textContent",
+          "source": "Mr John Doe",
+          "compare": "Mr UserbZIsgRx TIERS-TEST-VAN-EWhcptuni",
+          "description": "Text content differs",
+          "severity": "critical"
+        },
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 22,
+              "compare": 43,
+              "difference": 21
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": true,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess",
+      "matchSimilarity": 0.9849507315616601,
+      "sourceBox": {
+        "x": 10,
+        "y": 1686,
+        "width": 365,
+        "height": 394
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 1709,
+        "width": 365,
+        "height": 346
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1686,
+              "compare": 1709,
+              "difference": 23
+            },
+            {
+              "property": "height",
+              "source": 394,
+              "compare": 346,
+              "difference": 48
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div",
+      "matchSimilarity": 0.9848739495798319,
+      "sourceBox": {
+        "x": 11,
+        "y": 1687,
+        "width": 363,
+        "height": 392
+      },
+      "compareBox": {
+        "x": 11,
+        "y": 1710,
+        "width": 363,
+        "height": 344
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1687,
+              "compare": 1710,
+              "difference": 23
+            },
+            {
+              "property": "height",
+              "source": 392,
+              "compare": 344,
+              "difference": 48
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section",
+      "matchSimilarity": 0.9848739495798319,
+      "sourceBox": {
+        "x": 11,
+        "y": 1687,
+        "width": 363,
+        "height": 392
+      },
+      "compareBox": {
+        "x": 11,
+        "y": 1710,
+        "width": 363,
+        "height": 344
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1687,
+              "compare": 1710,
+              "difference": 23
+            },
+            {
+              "property": "height",
+              "source": 392,
+              "compare": 344,
+              "difference": 48
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div/adm-card-section/adm-card-section-content/adm-details/adm-details-title/h4",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div/adm-card-section/adm-card-section-content/adm-details/adm-details-title/h4",
+      "matchSimilarity": 0.9410427807486631,
+      "sourceBox": {
+        "x": 20,
+        "y": 1172,
+        "width": 344,
+        "height": 23
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1173,
+        "width": 344,
+        "height": 44
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 23,
+              "compare": 44,
+              "difference": 21
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details",
+      "matchSimilarity": 0.9826377952755906,
+      "sourceBox": {
+        "x": 10,
+        "y": 1127,
+        "width": 365,
+        "height": 106
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 1128,
+        "width": 365,
+        "height": 127
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 106,
+              "compare": 127,
+              "difference": 21
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section",
+      "matchSimilarity": 0.9825605536332179,
+      "sourceBox": {
+        "x": 20,
+        "y": 1727,
+        "width": 344,
+        "height": 340
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1750,
+        "width": 344,
+        "height": 292
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1727,
+              "compare": 1750,
+              "difference": 23
+            },
+            {
+              "property": "height",
+              "source": 340,
+              "compare": 292,
+              "difference": 48
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content",
+      "matchSimilarity": 0.9825605536332179,
+      "sourceBox": {
+        "x": 20,
+        "y": 1727,
+        "width": 344,
+        "height": 340
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1750,
+        "width": 344,
+        "height": 292
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1727,
+              "compare": 1750,
+              "difference": 23
+            },
+            {
+              "property": "height",
+              "source": 340,
+              "compare": 292,
+              "difference": 48
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div",
+      "matchSimilarity": 0.9792470588235295,
+      "sourceBox": {
+        "x": 11,
+        "y": 1128,
+        "width": 363,
+        "height": 104
+      },
+      "compareBox": {
+        "x": 11,
+        "y": 1129,
+        "width": 363,
+        "height": 125
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 104,
+              "compare": 125,
+              "difference": 21
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div/adm-card-section",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div/adm-card-section",
+      "matchSimilarity": 0.9792470588235295,
+      "sourceBox": {
+        "x": 11,
+        "y": 1128,
+        "width": 363,
+        "height": 104
+      },
+      "compareBox": {
+        "x": 11,
+        "y": 1129,
+        "width": 363,
+        "height": 125
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 104,
+              "compare": 125,
+              "difference": 21
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div/adm-card-section/adm-card-section-content/adm-details",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div/adm-card-section/adm-card-section-content/adm-details",
+      "matchSimilarity": 0.9624040920716113,
+      "sourceBox": {
+        "x": 20,
+        "y": 1172,
+        "width": 344,
+        "height": 48
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1173,
+        "width": 344,
+        "height": 69
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 48,
+              "compare": 69,
+              "difference": 21
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div/adm-card-section/adm-card-section-content",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div/adm-card-section/adm-card-section-content",
+      "matchSimilarity": 0.9624040920716113,
+      "sourceBox": {
+        "x": 20,
+        "y": 1172,
+        "width": 344,
+        "height": 48
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1173,
+        "width": 344,
+        "height": 69
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 48,
+              "compare": 69,
+              "difference": 21
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[3]/div/eui-gateway-s-document-preference/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[3]/div/eui-gateway-s-document-preference/adm-card",
+      "matchSimilarity": 0.9750000000000001,
+      "sourceBox": {
+        "x": 0,
+        "y": 2888,
+        "width": 384,
+        "height": 314
+      },
+      "compareBox": {
+        "x": 0,
+        "y": 2862,
+        "width": 384,
+        "height": 314
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-vehicle-summary/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-vehicle-summary/adm-card",
+      "matchSimilarity": 0.9705882352941178,
+      "sourceBox": {
+        "x": 10,
+        "y": 1020,
+        "width": 365,
+        "height": 108
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 1021,
+        "width": 365,
+        "height": 108
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-named-driver-details/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-named-driver-details/adm-card",
+      "matchSimilarity": 0.9705882352941178,
+      "sourceBox": {
+        "x": 10,
+        "y": 1231,
+        "width": 365,
+        "height": 79
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 1254,
+        "width": 365,
+        "height": 79
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-cover-summary/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-cover-summary/adm-card",
+      "matchSimilarity": 0.9705882352941178,
+      "sourceBox": {
+        "x": 10,
+        "y": 1309,
+        "width": 365,
+        "height": 127
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 1332,
+        "width": 365,
+        "height": 127
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-optional-extras-summary/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-optional-extras-summary/adm-card",
+      "matchSimilarity": 0.9705882352941178,
+      "sourceBox": {
+        "x": 10,
+        "y": 1435,
+        "width": 365,
+        "height": 127
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 1457,
+        "width": 365,
+        "height": 127
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-cover-dates/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-cover-dates/adm-card",
+      "matchSimilarity": 0.9705882352941178,
+      "sourceBox": {
+        "x": 10,
+        "y": 1560,
+        "width": 365,
+        "height": 127
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 1583,
+        "width": 365,
+        "height": 127
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-ipid-summary/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-ipid-summary/adm-card",
+      "matchSimilarity": 0.9705882352941178,
+      "sourceBox": {
+        "x": 10,
+        "y": 2079,
+        "width": 365,
+        "height": 216
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 2054,
+        "width": 365,
+        "height": 216
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[2]/div/section/div[2]/div/eui-motor-cover-benefits/eui-motor-cover-benefits-card/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[2]/div/section/div[2]/div/eui-motor-cover-benefits/eui-motor-cover-benefits-card/adm-card",
+      "matchSimilarity": 0.9705882352941178,
+      "sourceBox": {
+        "x": 0,
+        "y": 2381,
+        "width": 384,
+        "height": 474
+      },
+      "compareBox": {
+        "x": 0,
+        "y": 2356,
+        "width": 384,
+        "height": 474
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[3]/div/eui-fees-and-charges/section/div[2]/div/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[3]/div/eui-fees-and-charges/section/div[2]/div/adm-card",
+      "matchSimilarity": 0.9705882352941178,
+      "sourceBox": {
+        "x": 0,
+        "y": 3234,
+        "width": 384,
+        "height": 314
+      },
+      "compareBox": {
+        "x": 0,
+        "y": 3209,
+        "width": 384,
+        "height": 314
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[3]/div/eui-terms-and-conditions/section/div[2]/div/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[3]/div/eui-terms-and-conditions/section/div[2]/div/adm-card",
+      "matchSimilarity": 0.9705882352941178,
+      "sourceBox": {
+        "x": 0,
+        "y": 3580,
+        "width": 384,
+        "height": 385
+      },
+      "compareBox": {
+        "x": 0,
+        "y": 3554,
+        "width": 384,
+        "height": 385
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-policy-administrator/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-policy-administrator/adm-card",
+      "matchSimilarity": 0.970281710699168,
+      "sourceBox": {
+        "x": 10,
+        "y": 517,
+        "width": 365,
+        "height": 402
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 517,
+        "width": 365,
+        "height": 403
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": false
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-named-driver-details/adm-card/div/adm-card-section/adm-card-section-content/adm-card-section/adm-card-section-content/strong",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-named-driver-details/adm-card/div/adm-card-section/adm-card-section-content/adm-card-section/adm-card-section-content/strong",
+      "matchSimilarity": 0.9686356895699456,
+      "sourceBox": {
+        "x": 36,
+        "y": 1274,
+        "width": 97,
+        "height": 22
+      },
+      "compareBox": {
+        "x": 36,
+        "y": 1297,
+        "width": 238,
+        "height": 22
+      },
+      "differences": [
+        {
+          "type": "textContent",
+          "source": "Mr John Doe",
+          "compare": "Mr AddMwsyCCQ DriSPNKUKS",
+          "description": "Text content differs",
+          "severity": "critical"
+        },
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1274,
+              "compare": 1297,
+              "difference": 23
+            },
+            {
+              "property": "width",
+              "source": 97,
+              "compare": 238,
+              "difference": 141
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": true,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table",
+      "matchSimilarity": 0.965121107266436,
+      "sourceBox": {
+        "x": 20,
+        "y": 1727,
+        "width": 344,
+        "height": 170
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1750,
+        "width": 344,
+        "height": 122
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1727,
+              "compare": 1750,
+              "difference": 23
+            },
+            {
+              "property": "height",
+              "source": 170,
+              "compare": 122,
+              "difference": 48
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table",
+      "matchSimilarity": 0.965121107266436,
+      "sourceBox": {
+        "x": 20,
+        "y": 1727,
+        "width": 344,
+        "height": 170
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1750,
+        "width": 344,
+        "height": 122
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1727,
+              "compare": 1750,
+              "difference": 23
+            },
+            {
+              "property": "height",
+              "source": 170,
+              "compare": 122,
+              "difference": 48
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card",
+      "matchSimilarity": 0.9622081218274112,
+      "sourceBox": {
+        "x": 10,
+        "y": 1686,
+        "width": 365,
+        "height": 394
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 1709,
+        "width": 365,
+        "height": 346
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        },
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1686,
+              "compare": 1709,
+              "difference": 23
+            },
+            {
+              "property": "height",
+              "source": 394,
+              "compare": 346,
+              "difference": 48
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody",
+      "matchSimilarity": 0.9543891402714932,
+      "sourceBox": {
+        "x": 20,
+        "y": 1768,
+        "width": 344,
+        "height": 130
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1790,
+        "width": 344,
+        "height": 82
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1768,
+              "compare": 1790,
+              "difference": 22
+            },
+            {
+              "property": "height",
+              "source": 130,
+              "compare": 82,
+              "difference": 48
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[1]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[1]",
+      "matchSimilarity": 0.9543891402714932,
+      "sourceBox": {
+        "x": 20,
+        "y": 1768,
+        "width": 344,
+        "height": 65
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1790,
+        "width": 344,
+        "height": 41
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1768,
+              "compare": 1790,
+              "difference": 22
+            },
+            {
+              "property": "height",
+              "source": 65,
+              "compare": 41,
+              "difference": 24
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[1]/td[1]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[1]/td[1]",
+      "matchSimilarity": 0.9543891402714932,
+      "sourceBox": {
+        "x": 20,
+        "y": 1768,
+        "width": 86,
+        "height": 65
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1790,
+        "width": 86,
+        "height": 41
+      },
+      "differences": [
+        {
+          "type": "textContent",
+          "source": "Mr John Doe",
+          "compare": "",
+          "description": "Text content differs",
+          "severity": "critical"
+        },
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1768,
+              "compare": 1790,
+              "difference": 22
+            },
+            {
+              "property": "height",
+              "source": 65,
+              "compare": 41,
+              "difference": 24
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": true,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[1]/td[2]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[1]/td[2]",
+      "matchSimilarity": 0.9543891402714932,
+      "sourceBox": {
+        "x": 106,
+        "y": 1768,
+        "width": 86,
+        "height": 65
+      },
+      "compareBox": {
+        "x": 106,
+        "y": 1790,
+        "width": 86,
+        "height": 41
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1768,
+              "compare": 1790,
+              "difference": 22
+            },
+            {
+              "property": "height",
+              "source": 65,
+              "compare": 41,
+              "difference": 24
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[1]/td[3]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[1]/td[3]",
+      "matchSimilarity": 0.9543891402714932,
+      "sourceBox": {
+        "x": 192,
+        "y": 1768,
+        "width": 86,
+        "height": 65
+      },
+      "compareBox": {
+        "x": 192,
+        "y": 1790,
+        "width": 86,
+        "height": 41
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1768,
+              "compare": 1790,
+              "difference": 22
+            },
+            {
+              "property": "height",
+              "source": 65,
+              "compare": 41,
+              "difference": 24
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[1]/td[4]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[1]/td[4]",
+      "matchSimilarity": 0.9543891402714932,
+      "sourceBox": {
+        "x": 278,
+        "y": 1768,
+        "width": 86,
+        "height": 65
+      },
+      "compareBox": {
+        "x": 278,
+        "y": 1790,
+        "width": 86,
+        "height": 41
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "y",
+              "source": 1768,
+              "compare": 1790,
+              "difference": 22
+            },
+            {
+              "property": "height",
+              "source": 65,
+              "compare": 41,
+              "difference": 24
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[2]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[2]",
+      "matchSimilarity": 0.9543891402714932,
+      "sourceBox": {
+        "x": 20,
+        "y": 1833,
+        "width": 344,
+        "height": 65
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1831,
+        "width": 344,
+        "height": 41
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 65,
+              "compare": 41,
+              "difference": 24
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[2]/td[1]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[2]/td[1]",
+      "matchSimilarity": 0.9543891402714932,
+      "sourceBox": {
+        "x": 20,
+        "y": 1833,
+        "width": 86,
+        "height": 65
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1831,
+        "width": 86,
+        "height": 41
+      },
+      "differences": [
+        {
+          "type": "textContent",
+          "source": "Mr John Doe",
+          "compare": "",
+          "description": "Text content differs",
+          "severity": "critical"
+        },
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 65,
+              "compare": 41,
+              "difference": 24
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": true,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[2]/td[2]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[2]/td[2]",
+      "matchSimilarity": 0.9543891402714932,
+      "sourceBox": {
+        "x": 106,
+        "y": 1833,
+        "width": 86,
+        "height": 65
+      },
+      "compareBox": {
+        "x": 106,
+        "y": 1831,
+        "width": 86,
+        "height": 41
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 65,
+              "compare": 41,
+              "difference": 24
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[2]/td[3]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[2]/td[3]",
+      "matchSimilarity": 0.9543891402714932,
+      "sourceBox": {
+        "x": 192,
+        "y": 1833,
+        "width": 86,
+        "height": 65
+      },
+      "compareBox": {
+        "x": 192,
+        "y": 1831,
+        "width": 86,
+        "height": 41
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 65,
+              "compare": 41,
+              "difference": 24
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[2]/td[4]",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[2]/td[4]",
+      "matchSimilarity": 0.9543891402714932,
+      "sourceBox": {
+        "x": 278,
+        "y": 1833,
+        "width": 86,
+        "height": 65
+      },
+      "compareBox": {
+        "x": 278,
+        "y": 1831,
+        "width": 86,
+        "height": 41
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 65,
+              "compare": 41,
+              "difference": 24
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card",
+      "matchSimilarity": 0.9501621120889301,
+      "sourceBox": {
+        "x": 10,
+        "y": 1127,
+        "width": 365,
+        "height": 106
+      },
+      "compareBox": {
+        "x": 10,
+        "y": 1128,
+        "width": 365,
+        "height": 127
+      },
+      "differences": [
+        {
+          "type": "styles",
+          "differences": [
+            {
+              "property": "overflow",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-x",
+              "source": "hidden",
+              "compare": "visible"
+            },
+            {
+              "property": "overflow-y",
+              "source": "hidden",
+              "compare": "visible"
+            }
+          ],
+          "description": "3 style(s) differ",
+          "severity": "medium"
+        },
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 106,
+              "compare": 127,
+              "difference": 21
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    },
+    {
+      "sourceElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div/adm-card-section/adm-card-section-content/adm-details/adm-details-title",
+      "compareElement": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-main-driver-details/adm-card/div/adm-card-section/adm-card-section-content/adm-details/adm-details-title",
+      "matchSimilarity": 0.9498863636363637,
+      "sourceBox": {
+        "x": 20,
+        "y": 1172,
+        "width": 344,
+        "height": 23
+      },
+      "compareBox": {
+        "x": 20,
+        "y": 1173,
+        "width": 344,
+        "height": 44
+      },
+      "differences": [
+        {
+          "type": "box",
+          "differences": [
+            {
+              "property": "height",
+              "source": 23,
+              "compare": 44,
+              "difference": 21
+            }
+          ],
+          "description": "Bounding box differs (beyond tolerance)",
+          "severity": "high"
+        }
+      ],
+      "hasCritical": false,
+      "hasHigh": true
+    }
+  ],
+  "extraInSource": [],
+  "extraInCompare": [
+    {
+      "node": {
+        "url": "https://cqa80cqon01.non-prod.bolt.admiral.uk/Admiral/checks",
+        "elementId": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-policy-administrator/adm-card/div/adm-card-section[1]/adm-card-section-content/h3/adm-icon",
+        "tagName": "ADM-ICON",
+        "id": null,
+        "classes": [
+          "adm-icon",
+          "adm-icon--baseline",
+          "adm-icon--color-accent"
+        ],
+        "nodeName": "ADM-ICON",
+        "box": {
+          "x": 20,
+          "y": 587,
+          "width": 16,
+          "height": 18
+        },
+        "styles": {
+          "relevant": {
+            "display": "inline-flex",
+            "position": "relative",
+            "top": "2px",
+            "bottom": "-2px",
+            "width": "16px",
+            "height": "18px",
+            "min-width": "16px",
+            "min-height": "16px",
+            "border": "0px none rgb(0, 69, 160)",
+            "border-color": "rgb(0, 69, 160)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "background-position": "0% 0%",
+            "color": "rgb(0, 69, 160)",
+            "font-family": "jaf-facitweb, arial, helvetica, sans-serif",
+            "font-size": "16px",
+            "font-weight": "700",
+            "line-height": "16px",
+            "text-align": "start",
+            "text-decoration": "none solid rgb(0, 69, 160)",
+            "opacity": "1",
+            "visibility": "visible",
+            "overflow": "visible",
+            "overflow-x": "visible",
+            "overflow-y": "visible",
+            "list-style": "outside none disc"
+          }
+        },
+        "textContent": "",
+        "mediaContent": null,
+        "formState": null,
+        "listState": null,
+        "visualAttributes": null,
+        "elementState": {
+          "focused": false,
+          "hovered": false,
+          "visible": true,
+          "inViewport": true
+        },
+        "index": 122
+      },
+      "reason": "no_match_from_source",
+      "index": 122
+    },
+    {
+      "node": {
+        "url": "https://cqa80cqon01.non-prod.bolt.admiral.uk/Admiral/checks",
+        "elementId": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-policy-administrator/adm-card/div/adm-card-section[1]/adm-card-section-content/h3/adm-icon/svg-icon",
+        "tagName": "SVG-ICON",
+        "id": null,
+        "classes": [
+          "adm-icon__inner",
+          "ng-star-inserted"
+        ],
+        "nodeName": "SVG-ICON",
+        "box": {
+          "x": 20,
+          "y": 587,
+          "width": 16,
+          "height": 18
+        },
+        "styles": {
+          "relevant": {
+            "display": "block",
+            "position": "static",
+            "width": "16px",
+            "height": "18px",
+            "border": "0px none rgb(0, 69, 160)",
+            "border-color": "rgb(0, 69, 160)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "background-position": "0% 0%",
+            "color": "rgb(0, 69, 160)",
+            "font-family": "jaf-facitweb, arial, helvetica, sans-serif",
+            "font-size": "16px",
+            "font-weight": "700",
+            "line-height": "16px",
+            "text-align": "start",
+            "text-decoration": "none solid rgb(0, 69, 160)",
+            "opacity": "1",
+            "visibility": "visible",
+            "overflow": "visible",
+            "overflow-x": "visible",
+            "overflow-y": "visible",
+            "list-style": "outside none disc"
+          }
+        },
+        "textContent": "",
+        "mediaContent": null,
+        "formState": null,
+        "listState": null,
+        "visualAttributes": null,
+        "elementState": {
+          "focused": false,
+          "hovered": false,
+          "visible": true,
+          "inViewport": true
+        },
+        "index": 123
+      },
+      "reason": "no_match_from_source",
+      "index": 123
+    },
+    {
+      "node": {
+        "url": "https://cqa80cqon01.non-prod.bolt.admiral.uk/Admiral/checks",
+        "elementId": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-policy-administrator/adm-card/div/adm-card-section[1]/adm-card-section-content/h3/adm-icon/svg-icon/svg",
+        "tagName": "svg",
+        "id": null,
+        "classes": [
+          "adm-icon__svg"
+        ],
+        "nodeName": "svg",
+        "box": {
+          "x": 20,
+          "y": 587,
+          "width": 16,
+          "height": 16
+        },
+        "styles": {
+          "relevant": {
+            "display": "inline",
+            "position": "static",
+            "width": "16px",
+            "height": "16px",
+            "border": "0px none rgb(0, 69, 160)",
+            "border-color": "rgb(0, 69, 160)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "background-position": "0% 0%",
+            "color": "rgb(0, 69, 160)",
+            "font-family": "jaf-facitweb, arial, helvetica, sans-serif",
+            "font-size": "16px",
+            "font-weight": "700",
+            "line-height": "16px",
+            "text-align": "start",
+            "text-decoration": "none solid rgb(0, 69, 160)",
+            "opacity": "1",
+            "visibility": "visible",
+            "overflow": "hidden",
+            "overflow-x": "hidden",
+            "overflow-y": "hidden",
+            "list-style": "outside none disc"
+          }
+        },
+        "textContent": "",
+        "mediaContent": null,
+        "formState": null,
+        "listState": null,
+        "visualAttributes": null,
+        "elementState": {
+          "focused": false,
+          "hovered": false,
+          "visible": true,
+          "inViewport": true
+        },
+        "index": 124
+      },
+      "reason": "no_match_from_source",
+      "index": 124
+    },
+    {
+      "node": {
+        "url": "https://cqa80cqon01.non-prod.bolt.admiral.uk/Admiral/checks",
+        "elementId": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-policy-administrator/adm-card/div/adm-card-section[1]/adm-card-section-content/h3/adm-icon/svg-icon/svg/path",
+        "tagName": "path",
+        "id": null,
+        "classes": [],
+        "nodeName": "path",
+        "box": {
+          "x": 23,
+          "y": 589,
+          "width": 11,
+          "height": 11
+        },
+        "styles": {
+          "relevant": {
+            "display": "inline",
+            "position": "static",
+            "border": "0px none rgb(0, 69, 160)",
+            "border-color": "rgb(0, 69, 160)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "background-position": "0% 0%",
+            "color": "rgb(0, 69, 160)",
+            "font-family": "jaf-facitweb, arial, helvetica, sans-serif",
+            "font-size": "16px",
+            "font-weight": "700",
+            "line-height": "16px",
+            "text-align": "start",
+            "text-decoration": "none solid rgb(0, 69, 160)",
+            "opacity": "1",
+            "visibility": "visible",
+            "overflow": "visible",
+            "overflow-x": "visible",
+            "overflow-y": "visible",
+            "list-style": "outside none disc"
+          }
+        },
+        "textContent": "",
+        "mediaContent": null,
+        "formState": null,
+        "listState": null,
+        "visualAttributes": null,
+        "elementState": {
+          "focused": false,
+          "hovered": false,
+          "visible": true,
+          "inViewport": true
+        },
+        "index": 125
+      },
+      "reason": "no_match_from_source",
+      "index": 125
+    },
+    {
+      "node": {
+        "url": "https://cqa80cqon01.non-prod.bolt.admiral.uk/Admiral/checks",
+        "elementId": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-policy-administrator/adm-card/div/adm-card-section[1]/adm-card-section-content/h3/strong",
+        "tagName": "STRONG",
+        "id": null,
+        "classes": [],
+        "nodeName": "STRONG",
+        "box": {
+          "x": 39,
+          "y": 584,
+          "width": 319,
+          "height": 22
+        },
+        "styles": {
+          "relevant": {
+            "display": "inline",
+            "position": "static",
+            "border": "0px none rgb(0, 69, 160)",
+            "border-color": "rgb(0, 69, 160)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "background-position": "0% 0%",
+            "color": "rgb(0, 69, 160)",
+            "font-family": "jaf-facitweb, arial, helvetica, sans-serif",
+            "font-size": "16px",
+            "font-weight": "900",
+            "line-height": "19.2px",
+            "text-align": "start",
+            "text-decoration": "none solid rgb(0, 69, 160)",
+            "opacity": "1",
+            "visibility": "visible",
+            "overflow": "visible",
+            "overflow-x": "visible",
+            "overflow-y": "visible",
+            "list-style": "outside none disc"
+          }
+        },
+        "textContent": "Mr UserbZIsgRx TIERS-TEST-VAN-EWhcptuni",
+        "mediaContent": null,
+        "formState": null,
+        "listState": null,
+        "visualAttributes": null,
+        "elementState": {
+          "focused": false,
+          "hovered": false,
+          "visible": true,
+          "inViewport": true
+        },
+        "index": 126
+      },
+      "reason": "no_match_from_source",
+      "index": 126
+    },
+    {
+      "node": {
+        "url": "https://cqa80cqon01.non-prod.bolt.admiral.uk/Admiral/checks",
+        "elementId": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[1]/td[1]/adm-truncate",
+        "tagName": "ADM-TRUNCATE",
+        "id": null,
+        "classes": [
+          "adm-truncate"
+        ],
+        "nodeName": "ADM-TRUNCATE",
+        "box": {
+          "x": 28,
+          "y": 1799,
+          "width": 70,
+          "height": 24
+        },
+        "styles": {
+          "relevant": {
+            "display": "block",
+            "position": "static",
+            "width": "69.9062px",
+            "height": "24px",
+            "border": "0px none rgb(79, 79, 79)",
+            "border-color": "rgb(79, 79, 79)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "background-position": "0% 0%",
+            "color": "rgb(79, 79, 79)",
+            "font-family": "jaf-facitweb, arial, helvetica, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "text-align": "start",
+            "text-decoration": "none solid rgb(79, 79, 79)",
+            "opacity": "1",
+            "visibility": "visible",
+            "overflow": "hidden",
+            "overflow-x": "hidden",
+            "overflow-y": "hidden",
+            "list-style": "outside none disc"
+          }
+        },
+        "textContent": "Mr UserbZIsgRx TIERS-TEST-VAN-EWhcptuni",
+        "mediaContent": null,
+        "formState": null,
+        "listState": null,
+        "visualAttributes": null,
+        "elementState": {
+          "focused": false,
+          "hovered": false,
+          "visible": true,
+          "inViewport": false
+        },
+        "index": 370
+      },
+      "reason": "no_match_from_source",
+      "index": 370
+    },
+    {
+      "node": {
+        "url": "https://cqa80cqon01.non-prod.bolt.admiral.uk/Admiral/checks",
+        "elementId": "/html/body/eui-root/div[2]/eui-final-checks/form/adm-wrap[1]/div/eui-risk-summary-wrapper/eui-motor-risk-summary/section/div[2]/div/adm-card-deck/div/eui-motor-excess/adm-card/div/adm-card-section/adm-card-section/adm-card-section-content/eui-excess-details-table/table/tbody/tr[2]/td[1]/adm-truncate",
+        "tagName": "ADM-TRUNCATE",
+        "id": null,
+        "classes": [
+          "adm-truncate"
+        ],
+        "nodeName": "ADM-TRUNCATE",
+        "box": {
+          "x": 28,
+          "y": 1840,
+          "width": 70,
+          "height": 24
+        },
+        "styles": {
+          "relevant": {
+            "display": "block",
+            "position": "static",
+            "width": "69.9062px",
+            "height": "24px",
+            "border": "0px none rgb(79, 79, 79)",
+            "border-color": "rgb(79, 79, 79)",
+            "background-color": "rgba(0, 0, 0, 0)",
+            "background-position": "0% 0%",
+            "color": "rgb(79, 79, 79)",
+            "font-family": "jaf-facitweb, arial, helvetica, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "24px",
+            "text-align": "start",
+            "text-decoration": "none solid rgb(79, 79, 79)",
+            "opacity": "1",
+            "visibility": "visible",
+            "overflow": "hidden",
+            "overflow-x": "hidden",
+            "overflow-y": "hidden",
+            "list-style": "outside none disc"
+          }
+        },
+        "textContent": "Mr AddMwsyCCQ DriSPNKUKS",
+        "mediaContent": null,
+        "formState": null,
+        "listState": null,
+        "visualAttributes": null,
+        "elementState": {
+          "focused": false,
+          "hovered": false,
+          "visible": true,
+          "inViewport": false
+        },
+        "index": 376
+      },
+      "reason": "no_match_from_source",
+      "index": 376
+    }
+  ],
+  "matchedCount": 700,
+  "globalShift": {
+    "yShift": -25,
+    "xShift": 0,
+    "yShiftPercentage": 32,
+    "xShiftPercentage": 100
+  },
+  "summary": {
+    "totalSource": 700,
+    "totalCompare": 707,
+    "matched": 700,
+    "modified": 62,
+    "extraInSource": 0,
+    "extraInCompare": 7,
+    "criticalDifferences": 11,
+    "highDifferences": 45,
+    "globalYShift": -25,
+    "globalXShift": 0
+  }
+}

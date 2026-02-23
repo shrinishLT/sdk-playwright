@@ -1,0 +1,15 @@
+[
+    {
+        "name": "webscanner",
+        "url": "https://webscanner.lambdatest.com/",
+        "waitForTimeout": 30000,
+        "execute": {
+            "beforeNavigation": "await page.goto('https://accounts.lambdatest.com/login'); await page.waitForTimeout(5000); await page.locator('#email').fill('haiderk@lambdatest.com'); await page.locator('#password').fill('Haider@3210#LT'); await page.locator('#login-button').click(); await page.waitForTimeout(5000);"
+        }
+    },
+    {
+        "name": "webscanner-2",
+        "url": "https://google.com",
+        "waitForTimeout": 30000
+    }
+]

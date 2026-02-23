@@ -6,6 +6,7 @@ const path = require('path');
 
 const stageBucketURL = 'https://stage-automation-dotlapse-artefact.lambdatestinternal.com';
 
+
 const viatorBaseURL = 'https://automation-dotlapse-artefact.lambdatest.com/org-833575/188cc85d-b952-4cd1-ae3d-66cb82d35104/9936554d-0bb2-4330-8251-181d952426e6/base-screenshots/THINGS_TO_DO_canary_chrome_1366x0.png';
 const viatorCompURL = 'https://automation-dotlapse-artefact.lambdatest.com/org-833575/188cc85d-b952-4cd1-ae3d-66cb82d35104/942479ad-631d-4dcf-8ec2-d9f8f94a250d/base-screenshots/THINGS_TO_DO_canary_chrome_1366x0.png';
 
@@ -22,13 +23,37 @@ const flipkartBaseURL = 'https://stage-automation-dotlapse-artefact.lambdatestin
 const flipkartCompURL = 'https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-116499/01K44Y3FN58Q9WYHFY85Y6ADJB/87d5ec97-32c4-450c-9d33-2b73c2510232/base-screenshots/Screenshot1_chrome_1920x0.png';
 
 const kayakbase1 = 'https://automation-dotlapse-artefact.lambdatest.com/org-1136539/00d78f18-5fd5-4eba-9cb9-0d873330016a/9a91d998-fbd6-45db-8f96-8cb067795e07/base-screenshots/_kayak___en_us__Cars_Results_Page_chrome_1280x0.png'
-const kayakcomp1= 'https://automation-dotlapse-artefact.lambdatest.com/org-1136539/00d78f18-5fd5-4eba-9cb9-0d873330016a/f8847497-db41-4cfb-abc3-097c8fc4704f/base-screenshots/_kayak___en_us__Cars_Results_Page_chrome_1280x0.png'
+const kayakcomp1 = 'https://automation-dotlapse-artefact.lambdatest.com/org-1136539/00d78f18-5fd5-4eba-9cb9-0d873330016a/f8847497-db41-4cfb-abc3-097c8fc4704f/base-screenshots/_kayak___en_us__Cars_Results_Page_chrome_1280x0.png'
 
 const kayakbase4 = 'https://automation-dotlapse-artefact.lambdatest.com/org-1136539/00d78f18-5fd5-4eba-9cb9-0d873330016a/9a91d998-fbd6-45db-8f96-8cb067795e07/base-screenshots/_kayak___en_us__Packages_Results_Page_chrome_1280x0.png'
 const kayakcomp4 = 'https://automation-dotlapse-artefact.lambdatest.com/org-1136539/00d78f18-5fd5-4eba-9cb9-0d873330016a/f8847497-db41-4cfb-abc3-097c8fc4704f/base-screenshots/_kayak___en_us__Packages_Results_Page_chrome_1280x0.png'
 
-const firstScreenshotURL = kayakbase4;
-const secondScreenshotURL = kayakcomp4;
+const ltqa2BaseURL = 'https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-33244476/01JS4AKKT4P585YAAHQF0J6R3C/e5fc2cf0-9ea4-4c05-b2d3-8d2e2d3b7b89/base-screenshots/ltqa_2_chrome_1920x0.png'
+const ltqa2compURL = 'https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-33244476/01JS4AKKT4P585YAAHQF0J6R3C/2a9e9cbe-bbd7-41c4-8b77-5e91f4231417/base-screenshots/ltqa_2_chrome_1920x0.png'
+
+const ltqa3base = 'https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-33244476/01JS4AKKT4P585YAAHQF0J6R3C/e5fc2cf0-9ea4-4c05-b2d3-8d2e2d3b7b89/base-screenshots/ltqa_3_chrome_1920x0.png'
+const ltqa3comp = 'https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-33244476/01JS4AKKT4P585YAAHQF0J6R3C/2a9e9cbe-bbd7-41c4-8b77-5e91f4231417/base-screenshots/ltqa_3_chrome_1920x0.png'
+
+const kayakfix1 = 'https://automation-dotlapse-artefact.lambdatest.com/org-1136539/00d78f18-5fd5-4eba-9cb9-0d873330016a/9a91d998-fbd6-45db-8f96-8cb067795e07/base-screenshots/_kayak___en_us__Cars_Results_Page_chrome_1920x0.png'
+const kayakfix2 = 'https://automation-dotlapse-artefact.lambdatest.com/org-1136539/00d78f18-5fd5-4eba-9cb9-0d873330016a/773e9388-d9d2-4b35-a505-6995160c0c97/base-screenshots/_kayak___en_us__Cars_Results_Page_chrome_1920x0.png'
+
+const sizediff1 = 'https://automation-dotlapse-artefact.lambdatest.com/org-2454120/01K63AE3VQS3F10BGKNWX5WF6F/7a1aa182-8c3d-4c65-935f-8db48ff9812e/base-screenshots/SignIn_Page_chrome_1440x3664.png'
+const sizediff2 = 'https://automation-dotlapse-artefact.lambdatest.com/org-2454120/01K63AE3VQS3F10BGKNWX5WF6F/c1571f44-d336-44a7-a41e-9510f590395b/base-screenshots/SignIn_Page_chrome_1440x3664.png'
+
+const conde1base = 'https://automation-dotlapse-artefact.lambdatest.com/org-998272/01K9477DZR37HB1QHTQWK1BB1W/0c34053c-8343-4d11-a087-64afe1b1099b/base-screenshots/epicurious_home_page_chrome_1920x0.png'
+const condebcomp1 = 'https://automation-dotlapse-artefact.lambdatest.com/org-998272/01K9477DZR37HB1QHTQWK1BB1W/e5286e22-0d49-4594-93a2-ade58928de92/base-screenshots/epicurious_home_page_chrome_1920x0.png'
+
+const netflixstage1 = 'https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-33312881/01JT5TWXB7G5GQSR0619CZMGAV/e86ea037-16d0-42cb-b918-d413d5fcae53/base-screenshots/netflix_safari_iPhone_14_portrait.png'
+const netflixstage2 = 'https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-33312881/01JT5TWXB7G5GQSR0619CZMGAV/05853ec9-5446-4b15-8486-77478aa8c8a0/base-screenshots/netflix_safari_iPhone_14_portrait.png'
+
+const atlassianstage1 = 'https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-33312881/01JT5TWXB7G5GQSR0619CZMGAV/e86ea037-16d0-42cb-b918-d413d5fcae53/base-screenshots/atlassian_chrome_1920x0.png';
+const atlasianstage2 = 'https://stage-automation-dotlapse-artefact.lambdatestinternal.com/org-33312881/01JT5TWXB7G5GQSR0619CZMGAV/05853ec9-5446-4b15-8486-77478aa8c8a0/base-screenshots/atlassian_chrome_1920x0.png';
+
+const admiral1= 'https://automation-dotlapse-artefact.lambdatest.com/org-2503148/01K3R7RNKBS1WX4MVW7MZHA0RV/31254ffb-bebb-43b8-b120-90219d3e9a09/base-screenshots/Add_Tier_Van_on_Tier_Car___Final_Checks___Add_Van_Banner___Displays_chrome_Galaxy_S24_Plus_portrait.png'
+const admiral2 = 'https://automation-dotlapse-artefact.lambdatest.com/org-2503148/01K3R7RNKBS1WX4MVW7MZHA0RV/8142e53e-dad1-47f0-8cbb-6fe68b205df0/base-screenshots/Add_Tier_Van_on_Tier_Car___Final_Checks___Add_Van_Banner___Displays_chrome_Galaxy_S24_Plus_portrait.png'
+
+const firstScreenshotURL = admiral1;
+const secondScreenshotURL = admiral2;   
 
 function parseSmartUiUrl(urlString) {
     const url = new URL(urlString);
@@ -49,6 +74,37 @@ function parseSmartUiUrl(urlString) {
     }
 
     return { origin, orgId, projectId, buildId, screenshotName };
+}
+
+/**
+ * Get PNG image dimensions from URL
+ * Reads the PNG IHDR chunk to extract width and height
+ */
+async function getImageDimensions(url) {
+    try {
+        const response = await axios({
+            method: 'GET',
+            url: url,
+            responseType: 'arraybuffer'
+        });
+
+        const buffer = Buffer.from(response.data);
+        
+        // PNG signature is at bytes 0-7, IHDR starts at byte 16
+        // Width is at bytes 16-19 (4 bytes, big-endian)
+        // Height is at bytes 20-23 (4 bytes, big-endian)
+        if (buffer.length < 24) {
+            throw new Error('Invalid PNG file - too short');
+        }
+
+        const width = buffer.readUInt32BE(16);
+        const height = buffer.readUInt32BE(20);
+
+        return { width, height };
+    } catch (error) {
+        console.error(`Failed to get image dimensions from URL: ${url}`, error.message);
+        throw error;
+    }
 }
 
 async function downloadImage(url, localPath) {
@@ -123,7 +179,7 @@ const findLayoutDifferences = (sourceNodes, compareNodes, options = {}) => {
         extraInCompare: [],
         matchedPairs: new Map(),
         debugInfo: []
-    };
+    }
 
     // Track which nodes have been matched
     const matchedCompareIndices = new Set();
@@ -160,7 +216,7 @@ const findLayoutDifferences = (sourceNodes, compareNodes, options = {}) => {
             similarities.push({
                 score: similarity.total,
                 cmpIndex,
-                breakdown: similarity.breakdown,
+                // breakdown: similarity.breakdown,
                 srcNode,
                 cmpNode
             });
@@ -183,6 +239,7 @@ const findLayoutDifferences = (sourceNodes, compareNodes, options = {}) => {
 
     // Match elements based on best similarity scores
     similarityMatrix.forEach(srcEntry => {
+        // console.log('index', srcEntry.srcIndex, 'bestMatch similarity', srcEntry.similarities[0]?.score, 'with cmp Node', srcEntry.similarities[0]?.cmpNode?.elementId);
         if (matchedSourceIndices.has(srcEntry.srcIndex)) return;
 
         // Find best unmatched compare element
@@ -207,9 +264,9 @@ const findLayoutDifferences = (sourceNodes, compareNodes, options = {}) => {
                 compareElement: bestMatch.cmpNode.elementId,
                 similarity: bestMatch.score,
                 matchType,
-                breakdown: bestMatch.breakdown,
-                srcIndex: srcEntry.srcIndex,
-                cmpIndex: bestMatch.cmpIndex
+                // breakdown: bestMatch.breakdown,
+                // srcIndex: srcEntry.srcIndex,
+                // cmpIndex: bestMatch.cmpIndex
             });
 
             results.matchedPairs.set(
@@ -219,14 +276,14 @@ const findLayoutDifferences = (sourceNodes, compareNodes, options = {}) => {
 
             if (debug) {
                 results.debugInfo.push({
-                    source: bestMatch.srcNode.elementId,
-                    matched: bestMatch.cmpNode.elementId,
+                    // source: bestMatch.srcNode.elementId,
+                    // matched: bestMatch.cmpNode.elementId,
                     similarity: bestMatch.score,
-                    breakdown: bestMatch.breakdown,
-                    otherCandidates: srcEntry.similarities.slice(0, 3).map(s => ({
-                        element: s.cmpNode?.elementId,
-                        score: s.score
-                    }))
+                    // breakdown: bestMatch.breakdown,
+                    // otherCandidates: srcEntry.similarities.slice(0, 3).map(s => ({
+                    //     element: s.cmpNode?.elementId,
+                    //     score: s.score
+                    // }))
                 });
             }
         } else {
@@ -236,8 +293,8 @@ const findLayoutDifferences = (sourceNodes, compareNodes, options = {}) => {
                 reason: 'below_threshold',
                 bestScore: srcEntry.similarities[0]?.score || 0,
                 bestScoreIndex: srcEntry.similarities[0]?.cmpIndex || 0,
-                minRequired: minSimilarity,
-                index: srcEntry.srcIndex
+                // minRequired: minSimilarity,
+                // index: srcEntry.srcIndex
             });
 
             if (debug && srcEntry.similarities[0]?.score > 0) {
@@ -247,7 +304,7 @@ const findLayoutDifferences = (sourceNodes, compareNodes, options = {}) => {
                     bestCandidate: srcEntry.similarities[0].cmpNode?.elementId,
                     bestScore: srcEntry.similarities[0].score,
                     breakdown: srcEntry.similarities[0].breakdown,
-                    reason: 'below_threshold'
+                    // reason: 'below_threshold'
                 });
             }
         }
@@ -264,10 +321,6 @@ const findLayoutDifferences = (sourceNodes, compareNodes, options = {}) => {
         }
     });
 
-    // remove same dimension+position elements that are not matched with help of elements that are already matched
-    // 1. group all elements by dimension+position key and get elements that are not matched
-    
-
     // Calculate summary statistics
     results.summary = {
         totalSource: sourceNodes.length,
@@ -275,10 +328,6 @@ const findLayoutDifferences = (sourceNodes, compareNodes, options = {}) => {
         matched: results.matches.length,
         extraInSource: results.extraInSource.length,
         extraInCompare: results.extraInCompare.length,
-        matchRate: (results.matches.length / sourceNodes.length * 100).toFixed(2) + '%',
-        averageSimilarity: results.matches.length > 0
-            ? (results.matches.reduce((sum, m) => sum + m.similarity, 0) / results.matches.length).toFixed(3)
-            : 0
     };
 
     return results;
@@ -295,6 +344,10 @@ const calculateComprehensiveSimilarity = (srcNode, cmpNode, srcPath, cmpPath) =>
     // 1. Path similarity (30% weight)
     // Exact path match gets bonus, but not automatic match
     if (srcNode.elementId === cmpNode.elementId) {
+        // return {
+        //     total : 1.0,
+        //     breakdown : {}
+        // }; 
         breakdown.path = 1.0;
         breakdown.exactPath = true;
     } else {
@@ -626,11 +679,33 @@ async function saveToFile(data, filename) {
     }
 }
 
-async function getData(url) {
+async function getData(url, screenshotWidth = null, screenshotHeight = null) {
     const elementData = await downloadJSONFile(url);
+    
+    // Filter elements based on screenshot dimensions if provided
+    let filteredElementData = elementData;
+    
+    if (screenshotWidth !== null && screenshotHeight !== null) {
+        filteredElementData = elementData.filter(item => {
+            if (!item.box) return false;
+            
+            const left = typeof item.box.left === 'number' ? item.box.left : (typeof item.box.x === 'number' ? item.box.x : 0);
+            const top = typeof item.box.top === 'number' ? item.box.top : (typeof item.box.y === 'number' ? item.box.y : 0);
+            const width = typeof item.box.width === 'number' ? item.box.width : 0;
+            const height = typeof item.box.height === 'number' ? item.box.height : 0;
+            
+            if (width <= 0 || height <= 0) return false;
+            
+            const overlapsHorizontally = (left + width) > 0 && left < screenshotWidth;
+            const overlapsVertically = (top + height) > 0 && top < screenshotHeight;
+
+            return overlapsHorizontally && overlapsVertically;
+        });
+    }
+    
     const finalData = [];
 
-    for (const [index, item] of elementData.entries()) {
+    for (const [index, item] of filteredElementData.entries()) {
         if (item.hasOwnProperty('elementId')) {
             item.index = index;
             finalData.push(item.elementId);
@@ -639,24 +714,24 @@ async function getData(url) {
 
     return {
         elementIds: finalData,
-        fullData: elementData  // Keep full data for saving
+        fullData: filteredElementData  // Keep only filtered data for saving
     };
 }
 
-async function downloadAndSaveData(baseElementData, compElementData) {
+async function downloadAndSaveData(baseElementData, compElementData, baseScreenshotWidth = null, baseScreenshotHeight = null, compScreenshotWidth = null, compScreenshotHeight = null) {
     try {
         console.log('Starting download process...\n');
 
         // Download base data
         console.log(' Downloading base data...');
-        const baseResult = await getData(baseElementData);
+        const baseResult = await getData(baseElementData, baseScreenshotWidth, baseScreenshotHeight);
 
         // Save base data
         await saveToFile(baseResult.fullData, 'baseData.json');
 
         // Download comparison data
         console.log('\n Downloading comparison data...');
-        const compResult = await getData(compElementData);
+        const compResult = await getData(compElementData, compScreenshotWidth, compScreenshotHeight);
 
         // Save comparison data
         await saveToFile(compResult.fullData, 'compData.json');
@@ -713,21 +788,36 @@ async function main() {
             compElementData
         });
 
-        const result = await downloadAndSaveData(baseElementData, compElementData);
+        // Get screenshot dimensions to filter elements
+        console.log('\n Getting screenshot dimensions...');
+        const baseDimensions = await getImageDimensions(firstScreenshotURL);
+        const compDimensions = await getImageDimensions(secondScreenshotURL);
+        
+        console.log(`Base screenshot: ${baseDimensions.width}x${baseDimensions.height}`);
+        console.log(`Comp screenshot: ${compDimensions.width}x${compDimensions.height}`);
 
-        const nodeData1 = await getData(baseElementData);
-        const nodeData2 = await getData(compElementData);
+        const result = await downloadAndSaveData(
+            baseElementData, 
+            compElementData,
+            baseDimensions.width,
+            baseDimensions.height,
+            compDimensions.width,
+            compDimensions.height
+        );
+
+        const nodeData1 = await getData(baseElementData, baseDimensions.width, baseDimensions.height);
+        const nodeData2 = await getData(compElementData, compDimensions.width, compDimensions.height);
 
         // getSimilarityBetweenNodes(nodeData1.fullData[697], nodeData2.fullData[681]);
 
         const layoutdiffs1 = findLayoutDifferences(nodeData1.fullData, nodeData2.fullData);
-        // await saveToFile(layoutdiffs1, 'report1.json');
+        await saveToFile(layoutdiffs1, 'report1.json');
 
         const payload = {
             mismatchedBoxes1: layoutdiffs1.extraInSource.map(e => ({ top: e.node.box.y, left: e.node.box.x, width: e.node.box.width, height: e.node.box.height })),
             mismatchedBoxes2: layoutdiffs1.extraInCompare.map(e => ({ top: e.node.box.y, left: e.node.box.x, width: e.node.box.width, height: e.node.box.height }))
         }
-        // await saveToFile(payload, 'mismatchedBoxes.json');
+        await saveToFile(payload, 'mismatchedBoxes.json');
 
         console.log('Parsed URL pieces:', {
             baseOrigin, orgId, projectId, baseBuildId, compBuildId, screenshotName

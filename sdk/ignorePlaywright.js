@@ -1,6 +1,6 @@
 const { chromium } = require("playwright");
 const { expect } = require("@playwright/test");
-const smartuiSnapshot = require("@lambdatest/playwright-driver");
+const {smartuiSnapshot} = require("@lambdatest/playwright-driver");
 
 
 // username: Username can be found at automation dashboard
@@ -31,21 +31,37 @@ const KEY = process.env.LT_ACCESS_KEY || "<ACCESS_KEY>";
     };
   }
 
-  const browser = await chromium.connect({
-    wsEndpoint: `wss://cdp.lambdatest.com/playwright?capabilities=${encodeURIComponent(
-      JSON.stringify(capabilities)
-    )}`,
-  });
+  const browser = await chromium.launch({});
 
-  const page = await browser.newPage();
+  const context = await browser.newContext();
+  const page = await context.newPage();
 
-  await page.goto("https://ipinfo.io/");
-  options = {
-    ignoreDOM: {
-        xpath: ['//*[@id="__next"]/div/div/main/section[4]'],
-    }
+  const urls = [
+    'https://renuityhome.com/',
+    'https://renuityhome.com/home-storage/'
+];
+
+for (const url of urls) {
+    console.log(`Navigating to: ${url}`);
+
+    // 1. Go to Renuity website
+    await page.goto(url, { waitUntil: 'load' });
+
+    // 2. Wait for 2000 ms
+    await page.waitForTimeout(2000);
+
+    // 3. Emulate mouse movement (visible interaction)
+    await page.mouse.move(100, 100);
+    await page.waitForTimeout(300);
+    await page.mouse.move(300, 200);
+    await page.waitForTimeout(300);
+    await page.mouse.move(500, 300);
+
+    // 4. Wait for 2000 ms so user can observe loaded assets
+    await page.waitForTimeout(2000);
+    await smartuiSnapshot(page, url);
 }
-  // Add the following command in order to take screenshot in SmartUI
-  await smartuiSnapshot.smartuiSnapshot(page, "Ignore-ticker", options);
-  await browser.close();
+
+// 5. Close browser
+await browser.close();
 })();

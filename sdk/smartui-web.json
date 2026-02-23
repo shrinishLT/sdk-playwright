@@ -13,14 +13,7 @@
       ]
     ]
   },
-  "mobile": {
-    "devices": [
-      "iPhone 14"
-    ],
-    "fullPage": true,
-    "orientation": "portrait"
-  },
-  "waitForTimeout": 90000,
+  "waitForTimeout": 1000,
   "enableJavaScript": false,
   "allowedHostnames": []
 }

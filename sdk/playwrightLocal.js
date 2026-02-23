@@ -9,13 +9,17 @@ const {smartuiSnapshot} = require("@lambdatest/playwright-driver");
 
   const page = await browser.newPage();
 
-  options = {
-    ignoreType : ['layout']
+  const options = {
+    ignoreDOM: {
+      cssSelector : ['.wrapper section:nth-child(1)'],
+    }
   }
-  
-  await page.goto("https://ipinfo.io/");
-  await smartuiSnapshot(page, "ipinfo",options);
 
-  // Close the browser
+  await page.goto("https://ltqa-frontend.lambdatestinternal.com/dynamic-element-testing");
+  await smartuiSnapshot(page, "floating-regions");
+
+  await page.goto("https://ltqa-frontend.lambdatestinternal.com/dynamic-colour-testing");
+  await smartuiSnapshot(page, "ignore-colors");
+
   await browser.close();
 })();

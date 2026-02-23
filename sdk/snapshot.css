@@ -1,0 +1,6 @@
+/* Hide the chat widget only on smaller screens */
+@media (max-width: 600px) {
+#live-chat-widget {
+    display: block !important;
+}
+}

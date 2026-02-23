@@ -1,27 +1,24 @@
 {
-  "name": "lambdatest-playwright-sample",
-  "scripts": {
-    "smartui-cloud": "npx smartui exec  node playwrightCloud.js",
-    "smartui-local": "npx smartui exec  node playwrightLocal.js",
-    "smartui-ignoreDOM": "npx smartui exec  node ignorePlaywright.js"
-  },
-  "engines": {
-    "node": ">=12.7.0"
-  },
-  "devDependencies": {
-    "@cucumber/cucumber": "^7.3.2",
-    "@playwright/test": "^1.49.1",
-    "chai": "^4.3.7",
-    "playwright": "^1.49.1"
-  },
-  "dependencies": {
-    "@lambdatest/playwright-driver": "^1.0.6",
-    "@lambdatest/selenium-driver": "^1.0.6",
-    "@lambdatest/smartui-cli": "file:../../../LT_Internal/smartui-cli",
-    "chromedriver": "^133.0.1",
-    "i": "^0.3.7",
-    "npm": "^11.0.0",
-    "scroll-to-bottomjs": "^1.1.0",
-    "selenium-webdriver": "^4.27.0"
-  }
+    "name": "lambdatest-playwright-sample",
+    "scripts": {
+        "smartui-cloud": "npx smartui exec  node script.js",
+        "smartui-local": "npx smartui exec  node script.js",
+        "smartui-ignoreDOM": "npx smartui exec  node script.js"
+    },
+    "engines": {
+        "node": ">=12.7.0"
+    },
+    "devDependencies": {
+        "@cucumber/cucumber": "^7.3.2",
+        "@playwright/test": "^1.35.0",
+        "chai": "^4.3.7",
+        "playwright": "^1.35.0"
+    },
+    "dependencies": {
+        "@lambdatest/playwright-driver": "^1.0.7",
+        "@lambdatest/selenium-driver": "^1.0.8",
+        "@lambdatest/smartui-cli": "file:../../../LT_Internal/smartui-cli/lambdatest-smartui-cli-4.1.53-A.tgz",
+        "export": "^0.1.337",
+        "selenium-webdriver": "^4.35.0"
+    }
 }
