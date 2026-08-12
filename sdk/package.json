@@ -3,7 +3,8 @@
     "scripts": {
         "smartui-cloud": "npx smartui exec  node script.js",
         "smartui-local": "npx smartui exec  node script.js",
-        "smartui-ignoreDOM": "npx smartui exec  node script.js"
+        "smartui-ignoreDOM": "npx smartui exec  node script.js",
+        "smartui-element-ignoreDOM": "npx smartui exec node elementIgnoreDOM.js"
     },
     "engines": {
         "node": ">=12.7.0"
@@ -17,7 +18,7 @@
     "dependencies": {
         "@lambdatest/playwright-driver": "^1.0.7",
         "@lambdatest/selenium-driver": "^1.0.8",
-        "@lambdatest/smartui-cli": "file:../../../LT_Internal/smartui-cli/lambdatest-smartui-cli-4.1.53-A.tgz",
+        "@lambdatest/smartui-cli": "^4.1.79",
         "export": "^0.1.337",
         "selenium-webdriver": "^4.35.0"
     }
