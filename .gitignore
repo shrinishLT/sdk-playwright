@@ -1,1 +1,5 @@
 node_modules
+.DS_Store
+
+# SmartUI debug logs contain project tokens and access keys — never commit.
+.smartui.log
